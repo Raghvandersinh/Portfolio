@@ -1,2 +1,1 @@
-This is my Portfolio Project 
-Template: https://html5up.net/dimension
+This is where I got my Portfolio Project Template: https://html5up.net/dimension
