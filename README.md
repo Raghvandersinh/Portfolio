@@ -1,3 +1,12 @@
-Here is the link to my Portfolio Website: https://raghvandersinh.github.io/Portfolio/
+# Raghvandersinh's(you can call me Rago) Portfolio:
+___
+Welcome to my data portfolio. Here is the summary of projects I worked on:
 
-This is where I got my Portfolio Template: https://html5up.net/dimension
+# Table of Contents
+___
+* [Projects](#projects)
+
+# Projects
+___
+Project Link | Completion Date | Tools | Project Description
+---
