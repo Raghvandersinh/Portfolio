@@ -8,5 +8,6 @@ ___
 
 # Projects
 ___
-Project Link | Completion Date | Tools | Project Description
----
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|---------------------|
+|TRI Data Analysis|July 2026|Python, Sql||
