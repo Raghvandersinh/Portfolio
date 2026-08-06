@@ -5,7 +5,7 @@ Welcome to my data portfolio. Here I summarize projects I worked on:
 # Table of Contents
 ___
 * [Projects](#projects)
-
+* [Work Experience](#work-experience)
 # Projects
 ___
 | Project Link | Completion Date | Tools | Project Description |
