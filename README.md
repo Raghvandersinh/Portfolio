@@ -14,9 +14,14 @@ ___
 |---------|-----------------|-------|---------------------|
 | Arkadia Analytics | November 2024 – April 2025 | Data Engineer Intern | I began my professional career at Arkadia Analytics as a Data Engineer Intern, where I developed automated ETL pipelines capable of navigating and scraping large e-commerce platforms while maintaining structured datasets.| 
 | Arkadia Analytics | April 2025 – November 2025 | System Analyst I | I later advanced to the role of System Analyst I, building PyQt desktop applications that automated cost estimation and client document generation using hundreds of thousands of business records |
+| Boscov's | September 2026 - Current | Stock Associate | Restocking, organizing stock rooms, assisting with internet orders, and fixing up products. |
 
 # Projects
 ___
+
+## CDC:
+
+| Diabetes Risk Factor Based Complications Analysis
 ## EPA:
 | Project Link | Completion Date | Tools | Project Description |
 |--------------|-----------------|-------|---------------------|
